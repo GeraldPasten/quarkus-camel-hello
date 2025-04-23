@@ -1,4 +1,4 @@
-package com.mx.banorte.services.route;
+package com.mx.service.services.route;
 
 import javax.enterprise.context.ApplicationScoped;
 import org.apache.camel.builder.RouteBuilder;
